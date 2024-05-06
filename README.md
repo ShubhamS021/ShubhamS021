@@ -6,7 +6,6 @@ I'm a seasoned full-stack developer with over 7 years of experience in the softw
 - 🔭 Throughout my career, I've successfully delivered numerous projects, ranging from small-scale startups to enterprise-level applications.
 - 🌱 I'm continuously expanding my skillset and staying up-to-date with the latest advancements in web development.
 - 💼 As an experienced professional, I pride myself on delivering high-quality solutions that meet and exceed client expectations.
-- 🌐 You can find some of my notable projects and contributions below.
 
 ## Skills
 Here are some of the key skills and technologies I'm proficient in:
