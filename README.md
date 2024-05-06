@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Shubham Sharma! 👋
 
-<!--
-**ShubhamS021/ShubhamS021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a seasoned full-stack developer with over 7 years of experience in the software industry. I specialize in developing robust and scalable web applications using a wide range of technologies and frameworks.
 
-Here are some ideas to get you started:
+- 🔭 Throughout my career, I've successfully delivered numerous projects, ranging from small-scale startups to enterprise-level applications.
+- 🌱 I'm continuously expanding my skillset and staying up-to-date with the latest advancements in web development.
+- 💼 As an experienced professional, I pride myself on delivering high-quality solutions that meet and exceed client expectations.
+- 🌐 You can find some of my notable projects and contributions below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Here are some of the key skills and technologies I'm proficient in:
+
+- Frontend: HTML/CSS, JavaScript, React.js, Vue.js, Next.js
+- Backend: Node.js, Express.js, Django, Flask, FastAPI
+- Databases: MySQL, MongoDB, PostgreSQL, Firebase
+- DevOps: Docker, Kubernetes, AWS, Azure, CI/CD
+- Other: Git, RESTful APIs, GraphQL, Agile methodologies
