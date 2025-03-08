@@ -11,7 +11,7 @@ I'm a seasoned full-stack developer with over 7 years of experience in the softw
 Here are some of the key skills and technologies I'm proficient in:
 
 - Frontend: HTML/CSS, JavaScript, React.js, Vue.js, Next.js
-- Backend: Node.js, Express.js, Django, Flask, FastAPI
+- Backend: Node.js, Express.js, Django, Axum, FastAPI
 - Databases: MySQL, MongoDB, PostgreSQL, Firebase
 - DevOps: Docker, Kubernetes, AWS, Azure, CI/CD
 - Other: Git, RESTful APIs, GraphQL, Agile methodologies
